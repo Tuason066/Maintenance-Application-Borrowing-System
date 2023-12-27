@@ -324,7 +324,7 @@ public class RequestFormCopy extends javax.swing.JFrame {
         String idNumber = idNumberField.getText();
         String cellNumber = cellNumberField.getText();
         String course = (String) courseComboBox.getSelectedItem();
-        String yearLevel = (String) courseComboBox.getSelectedItem();
+        String yearLevel = (String) yearLevelComboBox.getSelectedItem();
         String section = sectionField.getText();
         
         // table
